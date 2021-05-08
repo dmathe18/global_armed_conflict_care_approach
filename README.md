@@ -1,5 +1,5 @@
 # global_armed_conflict_final_repo
-This repository contains the original data, a copy of the Google Colaboratory notebook used to analyze the data, data visualizations, and the research query background information for the global armed conflict analysis.
+This repository contains the original data, copies of the Google Colaboratory notebooks used to analyze the data, data visualizations, and the research query background information for the global armed conflict analysis.
 
 # Analyzing the Relationship between Global Military Expenditure and the Incidence of Military Conflicts 
 
