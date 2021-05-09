@@ -10,3 +10,7 @@ Tasked with maintaining international peace and security, the United Nations mus
 
 ## Abstract
 Every minute, UN Peacekeeping operations deploy over $12,000 in wide-ranging efforts to protect civilians, prevent conflicts, and promote human rights in war-torn nations around the globe. Yet despite the scope and scale of these efforts, global military expenditure has continued to soar and the number of armed conflicts has trended markedly upward since 1946. We understand the urgency of UN Peacekeeping’s mission and the need to craft an efficient, calculated, and informed solution to allocating funds in the face of high stakes and limited resources. Compiling research across several reputable databases, the CARE (Cultural Understanding, Worldwide Agreement, Sharing Resources, and Economic Assistance) approach outlines our four-step roadmap to optimizing the path to international security and peace. By delivering critical resources to developing nations, promoting tolerance and cultural awareness, encouraging the formation of new multilateral agreements to foster greater resource sharing, and drafting an international compact in support of a global standard of governance, we believe that we can expedite the path to worldwide security and peace, saving the UN billions of dollars annually and mitigating the human cost of war along the way. 
+
+## Additional data sources
+- [World Bank](https://data.worldbank.org/)
+- [Uppsala Conflict Data Program](https://ucdp.uu.se/downloads/index.html#battlerelated)
