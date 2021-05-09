@@ -1,7 +1,7 @@
-# global_armed_conflict_final_repo
+# global_armed_conflict_care_approach
 This repository contains the original data, copies of the Google Colaboratory notebooks used to analyze the data, data visualizations, and the research query background information for the global armed conflict analysis.
 
-# Analyzing the Relationship between Global Military Expenditure and the Incidence of Military Conflicts 
+# The CARE Approach: Paving the Path to International Security and Peace
 
 ## Background
 During the fiscal year 1 July 2019 to 30 June 2020, the United Nations committed over $6.518 billion to sustaining [UN Peacekeeping operations](https://peacekeeping.un.org/en/what-is-peacekeeping), a multilaternal initiative which helps host countries engaged in military conflict "navigate the difficult path from conflict to peace" through a range of services including burden sharing, civilian protection, election and political process reform, and the promotion of human rights in pursuit of an overarching mandate to aid in restoring the rule of law. Despite these efforts, military spending has continued to soar globally, with total global military expenditure rising to [$1.981 trillion](https://www.sipri.org/media/press-release/2021/world-military-spending-rises-almost-2-trillion-2020) last year amid a 4.4% decline in global gross domestic product, largely attributable to the COVID-19 pandemic.
