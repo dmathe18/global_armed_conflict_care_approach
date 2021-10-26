@@ -14,3 +14,8 @@ Every minute, UN Peacekeeping operations deploy over $12,000 in wide-ranging eff
 ## Additional data sources
 - [World Bank](https://data.worldbank.org/)
 - [Uppsala Conflict Data Program](https://ucdp.uu.se/downloads/index.html#battlerelated)
+
+## Code
+- [choropleth](https://colab.research.google.com/drive/1f7Rc3C21m2BhYbnKGEKMPmMhBjvlpfJW?usp=sharing)
+- [arms embargoes effectiveness](https://colab.research.google.com/drive/1hd_-CcvF54ZrDhgoQzai6gPaUQPoCL73?usp=sharing)
+- [factors](https://colab.research.google.com/github/dmathe18/global_armed_conflict_final_repo/blob/main/Identifying_factors_contributing_to_armed_conflict_scatterplot_analyses.ipynb)
